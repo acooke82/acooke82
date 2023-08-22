@@ -1,4 +1,5 @@
 Hi, I'm Alex! 
 - BA in Linguistics from UBC
-- junior import technician (bash, SQL)  
-- interested in NLP, machine learning, translation engines, text-to-speech/speech-to-text, and language revitalization
+- working as an import technician (using bash, SQL)
+- working on my MSc from University of Arizona
+- interested in NLP, machine learning, translation engines, and language revitalization
